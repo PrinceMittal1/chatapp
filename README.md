@@ -18,7 +18,3 @@ Chit Chat is messaging app where you can send message personally & in group. You
 - Html 
 - Css
 
-## Team members 
-* Anurag Yadav
-* Prince Mittal
-* Shubham Kumar Rai
